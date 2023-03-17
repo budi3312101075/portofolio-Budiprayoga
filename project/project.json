@@ -1,0 +1,12 @@
+[
+ {
+        "title": "Sistem Informasi Dana Amal Polibatam",
+        "tech": "HTML, CSS, JS, BOOTSTRAP, CODEIGNITER 3",
+        "image": "./assets/img/project/DAP.jpg",
+        "desc": "Sistem Informasi Dana Amal Polibatam adalah website yang dipergunakan karyawan polibatam dalam mengatur dana amal",
+        "links": {
+            "demo": "#",
+            "code": "https://github.com/budi3312101075/PBL-IF-23"
+        }
+    }
+]

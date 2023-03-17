@@ -1,0 +1,19 @@
+[
+    {
+        "name": "Cisco Certifed Network Associate - NDG Linux Essentials",
+        "by": "Cisco Networking Academy.",
+        "image": "./certification/BudiPrayoga.jpg",
+        "category":"programming",
+        "links": {
+            "credentials": "https://drive.google.com/file/d/11XxCukBLRFg3Rjr48dXsOzsw8v_5SOKu/view?usp=sharing"
+        }
+    }, {
+        "name": "CISCO IT Essentials",
+        "by": "Cisco Networking Academy",
+        "image": "./certification/BudiPrayoga-orkom.jpg",
+        "category":"programming",
+        "links": {
+            "credentials": "https://drive.google.com/file/d/1zzQeaFVmF9l1-GqRsvQI985vDsu-Zc1I/view?usp=sharing"
+        }
+    }
+]
