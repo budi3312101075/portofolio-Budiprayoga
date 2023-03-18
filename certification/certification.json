@@ -15,5 +15,13 @@
         "links": {
             "credentials": "https://drive.google.com/file/d/1zzQeaFVmF9l1-GqRsvQI985vDsu-Zc1I/view?usp=sharing"
         }
+    },{
+        "name": "Belajar HTML",
+        "by": "Always Ngoding",
+        "image": "./certification/html.jpg",
+        "category":"programming",
+        "links": {
+            "credentials": "https://alwaysngoding.com/sertifikat/c2VydGlmaWthdC02ODQ"
+        }
     }
 ]
