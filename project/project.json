@@ -8,5 +8,15 @@
             "demo": "#",
             "code": "https://github.com/budi3312101075/PBL-IF-23"
         }
+    },
+    {
+        "title": "RedHelp",
+        "tech": "Rectjs, Taillwind, Daisy Ui",
+        "image": "./assets/img/project/Revised.png",
+        "desc": "Redhelp adalah website yang membantu orang dalam mencari donor darah, Website ini dibuat untuk memenuhi Project MSIB Batch 4",
+        "links": {
+            "demo": "https://redhelp.my.id/",
+            "code": "https://github.com/budi3312101075/RedHelp"
+        }
     }
 ]
