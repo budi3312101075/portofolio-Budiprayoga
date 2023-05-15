@@ -13,7 +13,7 @@
         "title": "RedHelp",
         "tech": "REACTJS, TAILLWIND, DAISY UI",
         "image": "./assets/img/project/Revised.png",
-        "desc": ".",
+        "desc": "Redhelp adalah website yang membantu orang dalam mencari donor darah, Website ini dibuat untuk memenuhi Project MSIB Batch 4 dengan beranggotakan 5 orang dan saya bertugas menjadi Coder",
         "links": {
             "demo": "https://redhelp.my.id/",
             "code": "https://github.com/budi3312101075/RedHelp"
