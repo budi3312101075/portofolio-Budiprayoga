@@ -16,6 +16,25 @@
             "credentials": "https://drive.google.com/file/d/1zzQeaFVmF9l1-GqRsvQI985vDsu-Zc1I/view?usp=sharing"
         }
     },{
+        "name": "React + Redux",
+        "by": "Sololearn",
+        "image": "./certification/React.png",
+        "category":"programming",
+        "links": {
+            "credentials": "https://www.sololearn.com/certificates/CT-GJNNN6PT"
+        }
+    },
+    {
+        "name": "SQL Intermediate",
+        "by": "Sololearn",
+        "image": "./certification/Sql.png",
+        "category":"programming",
+        "links": {
+            "credentials": "https://www.sololearn.com/certificates/CC-T3AWQVXR"
+        }
+    },
+    
+    {
         "name": "Belajar HTML",
         "by": "Always Ngoding",
         "image": "./certification/html.jpg",
