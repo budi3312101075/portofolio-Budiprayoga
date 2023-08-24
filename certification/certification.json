@@ -1,5 +1,13 @@
 [
     {
+        "name": "Red Hat Certified System Administrator (RHCSA)",
+        "by": "RedHat",
+        "image": "./certification/Red_Hat_Certified_System_Administrator__RHCSA.jpg",
+        "category":"programming",
+        "links": {
+            "credentials": "https://www.credly.com/badges/02afa1e1-7f48-4a14-8bbb-a2159f4d236b/public_url"
+        }
+    }, {
         "name": "Cisco Certifed Network Associate - NDG Linux Essentials",
         "by": "Cisco Networking Academy.",
         "image": "./certification/BudiPrayoga.jpg",
@@ -8,20 +16,20 @@
             "credentials": "https://drive.google.com/file/d/11XxCukBLRFg3Rjr48dXsOzsw8v_5SOKu/view?usp=sharing"
         }
     }, {
-        "name": "CISCO IT Essentials",
-        "by": "Cisco Networking Academy",
-        "image": "./certification/BudiPrayoga-orkom.jpg",
-        "category":"programming",
-        "links": {
-            "credentials": "https://drive.google.com/file/d/1zzQeaFVmF9l1-GqRsvQI985vDsu-Zc1I/view?usp=sharing"
-        }
-    },{
         "name": "React + Redux",
         "by": "Sololearn",
         "image": "./certification/React.png",
         "category":"programming",
         "links": {
             "credentials": "https://www.sololearn.com/certificates/CT-GJNNN6PT"
+        }
+    },{
+        "name": "CISCO IT Essentials",
+        "by": "Cisco Networking Academy",
+        "image": "./certification/BudiPrayoga-orkom.jpg",
+        "category":"programming",
+        "links": {
+            "credentials": "https://drive.google.com/file/d/1zzQeaFVmF9l1-GqRsvQI985vDsu-Zc1I/view?usp=sharing"
         }
     },
     {
