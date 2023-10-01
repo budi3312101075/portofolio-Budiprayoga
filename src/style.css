@@ -159,14 +159,14 @@ form .btn{
   margin-left: 50px;
 }
 .home .content .image img {
-  width: 450px;
+  width: 350px;
 
   border-radius: 50%;
   box-shadow: 0 3px 10px var(--danger);
   cursor: pointer;
 }
 .home .content .image img:hover{
-  width: 500px;
+  width: 400px;
   transition: .5s;
   box-shadow: 0 6px 20px var(--danger);
 }

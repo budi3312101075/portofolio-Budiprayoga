@@ -40,15 +40,5 @@
         "links": {
             "credentials": "https://www.sololearn.com/certificates/CC-T3AWQVXR"
         }
-    },
-    
-    {
-        "name": "Belajar HTML",
-        "by": "Always Ngoding",
-        "image": "./certification/html.jpg",
-        "category":"programming",
-        "links": {
-            "credentials": "https://alwaysngoding.com/sertifikat/c2VydGlmaWthdC02ODQ"
-        }
     }
 ]
